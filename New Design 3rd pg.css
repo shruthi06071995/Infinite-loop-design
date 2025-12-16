@@ -1,0 +1,132 @@
+div.container {
+    width: 100%;
+    height: 900px;
+    font-family: "Raleway",sans-serif; color: white;
+    background-image: url(./Imagesfordesign/infinite-loop-02.jpg);
+}
+div.subcontainer1 {                         /*testimonial heading*/
+    width: 99%;
+    height: 210px;
+    margin: 10px;
+    padding: 2px auto;
+}
+div.testimoni {
+    width: 98%;
+    height: 95px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+    padding: 5px;
+}
+div.testimonicontent {
+    width: 100%;
+    height: 77px;
+    text-align: center;
+    max-width: 750px;
+    font-size: 17px;
+    margin-left: 320px;
+}
+#img {
+    clip-path: circle(50%);
+}
+
+div.subcontainer2 {
+    width: 80%;
+    height: 670px;
+    margin: 10px 120px 10px 120px;
+}
+div.testimonicontent1 {
+    width: 99%;
+    height: 500px;
+    margin: 100px;
+}
+div.content1 {
+    width: 35%;
+    height: 478px;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    max-width: 290px;
+}
+div.photo1 {
+    width: 50%;
+    height: 150px;
+    margin-left: 70px;
+    border-radius: 50%;
+}
+div.photo1content {
+    width: 100%;
+    height: 200px;
+    margin: 1px;
+    font-size: 17px;
+    line-height: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+div.author1 {
+    width: 70%;
+    height: 500;
+    float: right;
+    padding: 20px;
+    text-align: right;
+}
+div.content2 {
+    width: 30%;
+    height: 489px;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    box-sizing: border-box;
+}
+div.photo2 {
+    width: 50%;
+    height: 150px;
+    margin-left: 70px;
+    border-radius: 50%;
+}
+div.photo2content {
+    width: 100%;
+    height: 200px;
+    margin: 1px;
+    font-size: 17px;
+    line-height: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+div.author2 {
+    width: 70%;
+    height: 500;
+    float: right;
+    padding: 20px;
+    text-align: right;
+}
+div.content3 {
+    width: 40%;
+    height: 480px;
+    margin: 10px;
+    padding: 5px;
+    float: left; max-width: 300px;
+}
+div.photo3 {
+    width: 50%;
+    height: 150px;
+    margin-left: 70px;
+    border-radius: 50%;
+}
+div.photo3content {
+    width: 100%;
+    height: 200px;
+    margin: 1px;
+    font-size: 17px;
+    line-height: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+div.author3 {
+    width: 70%;
+    height: 500;
+    float: right;
+    padding: 20px;
+    text-align: right;
+}

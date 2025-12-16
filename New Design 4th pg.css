@@ -1,0 +1,93 @@
+div.maincontainer {
+    height: 800px;
+}
+
+div.container1 {                        /*page top content*/
+    margin: 10px 120px 10px 100px;
+    padding: 20px;
+}
+div.leftIL {
+    font-weight: normal;
+    float: left;
+    color: #37A;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    margin: 10px 50px 15px 70px;
+    padding: 0px auto;
+}
+div.righttaskbar {
+    margin: 20px;
+    float: right;
+    font-size: 10px;
+    padding: 0 auto;
+    margin-left: 1px 30px 1px;
+    color: #38B;
+}
+div.home {
+    margin: 1px;
+    float: left;
+    padding-right: 30px;
+}
+div.wwd {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+div.test {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+div.gallery {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+div.contact {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+div.container2 {                         /*testimonial heading*/
+    width: 99%;
+    height: 250px;
+    margin: 10px;
+    padding: 3px auto;
+}
+div.heading {
+    width: 97%;
+    height: 70px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+    padding: 40px;
+    margin-bottom: 10px;
+}
+div.content {
+    width: 100%;
+    height: 77px;
+    text-align: center;
+    max-width: 1000px;
+    font-size: 17px;
+    margin-left: 280px;
+    line-height: 1.9;
+    box-sizing: border-box;
+}
+
+div.galleryimgs {
+    width: 99%;
+    background-color: whitesmoke;
+}
+div.galleryimg1 {
+    width: 19%;
+    margin-left: 10px;
+    margin-right: 9px;
+    float: left;
+}
+div.galleryimg2 {
+    width: 18.5%;
+    float: left;
+    margin-left: 9px;
+    margin-right: 9px;
+}
